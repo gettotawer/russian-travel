@@ -1,0 +1,27 @@
+.root{
+    background-color: #2A2C2F;
+}
+
+@media (max-width: 1200px){
+    .root{
+        max-width: 1200px;
+    }
+} 
+
+@media (max-width: 1024px){
+    .root{
+        max-width: 1024px;
+    }
+} 
+
+@media (max-width: 768px){
+    .root{
+        max-width: 768px;
+    }
+} 
+
+@media (max-width: 320px){
+    .root{
+        max-width: 320px;
+    }
+} 
