@@ -9,11 +9,11 @@
     margin-right: 18px;
     transition: opacity 0.2s;
     margin-bottom: 6px;
+    text-decoration: none;
 }
 
 .header__lang-link:last-child{
     margin-right: 0px;
-    text-decoration: none;
 }
 
 .header__lang-link:hover{

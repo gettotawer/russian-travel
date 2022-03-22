@@ -20,13 +20,6 @@
     }
 }
 
-/* @media (max-width: 768px){
-    .place{
-        grid-template-columns: minmax(min-content, 340px) minmax(320px, 456px);
-        grid-template-rows: minmax(76px, max-content) minmax(340px, max-content);
-    } 
-}*/
-
 @media (max-width: 768px){
     .place{
         margin-bottom: 73px;

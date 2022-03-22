@@ -12,7 +12,6 @@
     .photo-grid{
         grid-template-columns: repeat(auto-fit, 284px);
         grid-template-rows: repeat(auto-fit, 213px);
-        gap: 16px;
     }
 }
 
